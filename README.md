@@ -1,7 +1,8 @@
 # PracticaGitHub
 . ¿Qué comando utilizaste en el paso 11? ¿Por qué?
-    git reset --hard HEAD~1 porque pide que se pierdan los datos realizados en el working copy
+    "git reset --hard HEAD~1" porque pide que se pierdan los datos realizados en el working copy
 . ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
+    "git reflog" para que me muestre la información de los commits realizados y utilizando el identificador reducido del commit para volver al mismo
 . El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 . El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
 . El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?

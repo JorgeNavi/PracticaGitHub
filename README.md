@@ -1,6 +1,6 @@
 # PracticaGitHub
 . ¿Qué comando utilizaste en el paso 11? ¿Por qué?
-    git reset --hard HEAD~1. --hard porque pide que se pierdan los datos realizados en el working copy y HEAD~1 porque es deshacer el último commit
+    git reset --hard HEAD~1 porque pide que se pierdan los datos realizados en el working copy
 . ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 . El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
 . El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?

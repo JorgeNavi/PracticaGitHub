@@ -37,3 +37,6 @@
 
 . ¿Qué comando o comandos usaste en el punto 33?
     como ya tenía a la vista el git reflog no lo volví a poner. simplemente busqué la etiqueta del commit en el que puse el comentario que añadía el título y escribí "git reset (identificador reducido del commit donde añado título)"
+
+
+Aunque en el ejercicio pone subir "las ramas" y "los tags", los tags están subidos pero ramas solo incluyo "main" porque entiendo que es lo que se pedía (al hacernos eliminar las demás durante el ejercicio), asi que espero estar subiéndolo bien. Un saludo.
